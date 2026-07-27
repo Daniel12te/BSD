@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BsdApplication<com.bavaria.smartdispatch-bsd>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.bavaria.smartdispatch.bsd.BsdApplication",
+            "projectName": "com.bavaria.smartdispatch-bsd",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
